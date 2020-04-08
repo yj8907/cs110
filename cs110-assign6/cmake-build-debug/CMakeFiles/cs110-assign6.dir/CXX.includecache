@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangjiang/CLionProjects/cs110-assign6/thread-pool.cc
+thread-pool.h
+/Users/yangjiang/CLionProjects/cs110-assign6/thread-pool.h
+
+/Users/yangjiang/CLionProjects/cs110-assign6/thread-pool.h
+cstddef
+-
+functional
+-
+thread
+-
+vector
+-
+queue
+-
+mutex
+-
+condition_variable
+-
+../extra/include/semaphore.h
+/Users/yangjiang/CLionProjects/extra/include/semaphore.h
+
+/Users/yangjiang/CLionProjects/extra/include/semaphore.h
+mutex
+-
+condition_variable
+-
+

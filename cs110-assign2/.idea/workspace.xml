@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cs110_assign2" targetName="cs110_assign2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f47a6fc0-434f-46f7-b2cc-9b47b2c9c72f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XdNe60vhrJLFqalnnwSmFuPLoi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="cs110_assign2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cs110_assign2" TARGET_NAME="cs110_assign2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cs110_assign2" RUN_TARGET_NAME="cs110_assign2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f47a6fc0-434f-46f7-b2cc-9b47b2c9c72f" name="Default Changelist" comment="" />
+      <created>1581372103239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581372103239</updated>
+      <workItem from="1581372104903" duration="8297000" />
+      <workItem from="1581393464615" duration="33502000" />
+      <workItem from="1581572956856" duration="36176000" />
+      <workItem from="1581920386533" duration="33000" />
+      <workItem from="1582052283332" duration="1698000" />
+      <workItem from="1582400500900" duration="211000" />
+      <workItem from="1583117883071" duration="1025000" />
+      <workItem from="1583723179933" duration="259000" />
+      <workItem from="1583731663026" duration="493000" />
+      <workItem from="1583732209896" duration="528000" />
+      <workItem from="1583732885348" duration="140000" />
+      <workItem from="1583733156776" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581675789362">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="534" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.207.1280.777/0.23.1920.977@0.23.1920.977" timestamp="1581675789362" />
+    <state x="834" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1581393498768">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="834" y="305" key="com.intellij.ide.util.TipDialog/-1280.207.1280.777/0.23.1920.974@0.23.1920.974" timestamp="1581393498768" />
+    <state x="731" y="223" width="670" height="676" key="search.everywhere.popup" timestamp="1581449693888">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="731" y="223" width="670" height="676" key="search.everywhere.popup/-1680.23.1680.1027/0.23.1920.974@0.23.1920.974" timestamp="1581449693888" />
+  </component>
+</project>

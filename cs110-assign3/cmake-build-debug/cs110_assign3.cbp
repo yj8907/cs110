@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cs110_assign3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs110_assign3">
+				<Option output="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/cs110_assign3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs110_assign3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs110_assign3/fast">
+				<Option output="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/cs110_assign3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs110_assign3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yangjiang/CLionProjects/cs110-assign3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/farm.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/pipeline-test.c">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/pipeline.c">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/pipeline.h">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/subprocess-test.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/subprocess.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/subprocess.h">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-error-constants-test.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-error-constants.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-error-constants.h">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-options.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-options.h">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-system-calls-test.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-system-calls.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace-system-calls.h">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/trace.cc">
+			<Option target="cs110_assign3"/>
+		</Unit>
+		<Unit filename="/Users/yangjiang/CLionProjects/cs110-assign3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

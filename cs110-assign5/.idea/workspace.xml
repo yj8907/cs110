@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cs110-assign5" targetName="cs110-assign5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="897bdc91-3905-4b0a-b38f-e47a630e7369" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YzsBKkW1Ji6M6cBpC1HhxJhyAg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="cs110-assign5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cs110-assign5" TARGET_NAME="cs110-assign5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cs110-assign5" RUN_TARGET_NAME="cs110-assign5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="897bdc91-3905-4b0a-b38f-e47a630e7369" name="Default Changelist" comment="" />
+      <created>1583956620647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583956620647</updated>
+      <workItem from="1583956623122" duration="3112000" />
+      <workItem from="1583969411487" duration="6055000" />
+      <workItem from="1583977989310" duration="21134000" />
+      <workItem from="1584122605162" duration="14537000" />
+      <workItem from="1584164105975" duration="2000" />
+      <workItem from="1584209448093" duration="21933000" />
+      <workItem from="1584316458622" duration="597000" />
+      <workItem from="1584317299178" duration="36000" />
+      <workItem from="1584317351716" duration="593000" />
+      <workItem from="1584317977640" duration="78000" />
+      <workItem from="1584318302937" duration="1741000" />
+      <workItem from="1584417881987" duration="519000" />
+      <workItem from="1584427981804" duration="9000" />
+      <workItem from="1584477808585" duration="14000" />
+      <workItem from="1584479593696" duration="3000" />
+      <workItem from="1584494471898" duration="41000" />
+      <workItem from="1584494875897" duration="753000" />
+      <workItem from="1584825545330" duration="9000" />
+      <workItem from="1584826430430" duration="5000" />
+      <workItem from="1584826522506" duration="6000" />
+      <workItem from="1584835788016" duration="19000" />
+      <workItem from="1584920460654" duration="4000" />
+      <workItem from="1584921792797" duration="307000" />
+      <workItem from="1584926676036" duration="1913000" />
+      <workItem from="1585025224259" duration="11000" />
+      <workItem from="1585028233045" duration="6000" />
+      <workItem from="1585084186358" duration="11000" />
+      <workItem from="1585086292230" duration="8000" />
+      <workItem from="1585246600164" duration="13000" />
+      <workItem from="1585416519078" duration="474000" />
+      <workItem from="1585529841300" duration="598000" />
+      <workItem from="1585544499947" duration="405000" />
+      <workItem from="1585556235213" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="935" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583984090061">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="935" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.974/-1280.207.1280.777@0.23.1920.974" timestamp="1583984090061" />
+    <state x="870" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1584921793193">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="870" y="342" key="com.intellij.ide.util.TipDialog/0.23.1920.974/-1280.207.1280.777@0.23.1920.974" timestamp="1584921793193" />
+  </component>
+</project>

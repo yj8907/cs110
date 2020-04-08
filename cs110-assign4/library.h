@@ -1,0 +1,6 @@
+#ifndef CS110_ASSIGN4_LIBRARY_H
+#define CS110_ASSIGN4_LIBRARY_H
+
+void hello();
+
+#endif //CS110_ASSIGN4_LIBRARY_H

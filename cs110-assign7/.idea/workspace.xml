@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cs110_assign7" targetName="cs110_assign7" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ffd4c79-2d86-4698-bc0d-cb5297935a1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Z0V3cUp0IVGtViICW0VQhFocaM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="cs110_assign7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cs110_assign7" TARGET_NAME="cs110_assign7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cs110_assign7" RUN_TARGET_NAME="cs110_assign7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ffd4c79-2d86-4698-bc0d-cb5297935a1a" name="Default Changelist" comment="" />
+      <created>1583975800935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583975800935</updated>
+      <workItem from="1583975803124" duration="1217000" />
+      <workItem from="1583977447013" duration="490000" />
+      <workItem from="1583977994397" duration="4585000" />
+      <workItem from="1584122605165" duration="1079000" />
+      <workItem from="1584921870707" duration="230000" />
+      <workItem from="1584926676336" duration="10868000" />
+      <workItem from="1585025229329" duration="7000" />
+      <workItem from="1585028232707" duration="5000" />
+      <workItem from="1585084190732" duration="7000" />
+      <workItem from="1585086291872" duration="8000" />
+      <workItem from="1585246604135" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583975860186">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="958" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.974/-1280.207.1280.777@0.23.1920.974" timestamp="1583975860186" />
+    <state x="844" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1584945821973">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="844" y="322" key="com.intellij.ide.util.TipDialog/0.23.1920.974/-1280.207.1280.777@0.23.1920.974" timestamp="1583977996356" />
+    <state x="844" y="322" key="com.intellij.ide.util.TipDialog/0.23.1920.995/-1280.207.1280.777@0.23.1920.995" timestamp="1584945821973" />
+  </component>
+</project>

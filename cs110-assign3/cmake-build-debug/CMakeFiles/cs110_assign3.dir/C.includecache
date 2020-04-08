@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangjiang/CLionProjects/cs110-assign3/pipeline.c
+pipeline.h
+/Users/yangjiang/CLionProjects/cs110-assign3/pipeline.h
+stdio.h
+-
+stdbool.h
+-
+errno.h
+-
+
+/Users/yangjiang/CLionProjects/cs110-assign3/pipeline.h
+unistd.h
+-
+
